@@ -23,7 +23,7 @@
         };
     in
       getFrom
-        "https://github.com/driversline/cursors/blob/main/Nordzy-cursors.tar.gz?raw=true"
+        "https://github.com/driversline/cursors/blob/main/list/Nordzy-cursors-white.tar.gz?raw=true"
         "7yY1yDUzNg+SJynv7WFdAYApOFGFc7T3DT1C/auGORQ="
         "Nordzy-cursors-white";
 
