@@ -82,6 +82,10 @@ got:    sha256-7yY1yDUzNg+SJynv7WFdAYApOFGFc7T3DT1C/auGORQ=
 }
 ```
 
+# Итог этих махинаций
+
+[Здесь](https://github.com/driversline/cursors/blob/main/home-manager/home.nix)
+
 # Помощь
 
 [Wiki](https://nixos.wiki/wiki/Cursor_Themes)
