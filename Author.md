@@ -1,1 +1,1 @@
-[Nordzy-cursor-white](list/Nordzy-cursors-white.tar.gz) - [Source Code](https://github.com/guillaumeboehm/Nordzy-cursors)
+[Nordzy-cursor-white](list/Nordzy-cursors-white.tar.gz) - [guillaumeboehm](https://github.com/guillaumeboehm/Nordzy-cursors)
