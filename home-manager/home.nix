@@ -1,8 +1,9 @@
 { config, pkgs, ... }: {
-home.stateVersion = "24.11";
-home.username = "user";
-home.homeDirectory = "/home/user";
-home.pointerCursor =
+home = {
+stateVersion = "24.11";
+username = "user";
+homeDirectory = "/home/user";
+pointerCursor =
 let
   getFrom = url: hash: name: {
       gtk.enable = false;
@@ -23,4 +24,5 @@ in
     "https://github.com/driversline/cursors/blob/main/list/Nordzy-cursors-white.tar.gz?raw=true"
     "7yY1yDUzNg+SJynv7WFdAYApOFGFc7T3DT1C/auGORQ="
     "Nordzy-cursors-white";
+};
 }
