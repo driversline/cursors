@@ -1,5 +1,5 @@
 { config, pkgs, ... }: {
-home = {
+  home = {
   stateVersion = "24.11";
   username = "user";
   homeDirectory = "/home/user";
