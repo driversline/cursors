@@ -26,8 +26,8 @@ let
     };
 in
   getFrom
-    "https://github.com/driversline/cursors/blob/main/list/Nordzy-cursors-white.tar.gz?raw=true"
-    "7yY1yDUzNg+SJynv7WFdAYApOFGFc7T3DT1C/auGORQ="
+    "https://github.com/driversline/cursors/blob/main/archives/Nordzy-cursors-white.tar.gz?raw=true"
+    "051rhsmzshix1pvv8ww5a4w2k001bmhyvvr94y90ydik6p43a9pg"
     "Nordzy-cursors-white";
 };
 }
