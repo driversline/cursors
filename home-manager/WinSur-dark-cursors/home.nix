@@ -26,8 +26,8 @@ let
     };
 in
   getFrom
-    ""
-    ""
-    "";
+    "https://github.com/driversline/cursors/blob/main/archives/WinSur-dark-cursors.tar.gz?raw=true"
+    "0fgml7lk1n3br9iaqmriibg3snn66lh10gxgalcyv9q4yfmy47qa"
+    "WinSur-dark-cursors";
 };
 }
