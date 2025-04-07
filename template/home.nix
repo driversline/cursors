@@ -5,9 +5,9 @@ pkgs,
 }: 
 {
 home = {
-stateVersion = "24.11";
-username = "user";
-homeDirectory = "/home/user";
+stateVersion = "Версия-NixOS (24.11)";
+username = "Ваш-Юзернейм";
+homeDirectory = "Домашняя-Директория (/home/ )";
 pointerCursor =
 let
   getFrom = url: hash: name: {
