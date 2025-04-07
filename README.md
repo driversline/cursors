@@ -36,7 +36,7 @@
 
 - Получи хеш:
 ```sh
-nix-prefetch-url --unpack "URL_АРХИВА_С_RAW"
+nix-prefetch-url --unpack "URL_АРХИВА"
 ```
 
 - Создай файл по [образцу](template/home.nix)
