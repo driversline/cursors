@@ -26,7 +26,7 @@ let
     };
 in
   getFrom
-    "https://github.com/driversline/cursors/blob/main/archives/Kitty.tar.gz?raw=true"
+    "https://github.com/driversline/cursors/raw/main/archives/Kitty/Kitty.tar.gz"
     "0mjvcwlkp265qa0nla26cinzp65gk624cpv9kll4c5hl2l5r212c"
     "Kitty";
 };
