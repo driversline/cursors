@@ -5,7 +5,7 @@ pkgs,
 }: 
 {
 home = {
-stateVersion = "24.11";
+stateVersion = "25.05";
 username = "user";
 homeDirectory = "/home/user";
 pointerCursor =
